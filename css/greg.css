@@ -1,0 +1,45 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #c7c8ca;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: purple;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+
+
+main {margin-left:50px;
+padding-top:50px;}
+
+
+form {font-size:15px;
+	margin-top:10px;
+}
+
+
+input {height:25px; width: 80%;
+padding:2px;
+display:inline-block;
+	border:1px solid #c7c8ca;
+	border-radius: 3px;
+}
+
+img {width:25px;
+	height: 25px;
+	padding:2px;
+	position: absolute;
+	border:1px solid #c7c8ca; margin-left: 2px;
+	border-radius: 3px;}
