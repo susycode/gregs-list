@@ -30,7 +30,7 @@ form {font-size:15px;
 }
 
 
-input {height:25px; width: 80%;
+.search input {height:25px; width: 80%;
 padding:2px;
 display:inline-block;
 	border:1px solid #c7c8ca;
@@ -43,3 +43,13 @@ img {width:25px;
 	position: absolute;
 	border:1px solid #c7c8ca; margin-left: 2px;
 	border-radius: 3px;}
+
+.prev-next {font-size: 0px;}
+ .prev-next p{
+        font-size: 12px;
+        text-align: center;
+        display:inline-block;
+        padding:3px; margin-left:0px; margin-right:0px;
+    border:1px solid #c7c8ca;
+
+    }
